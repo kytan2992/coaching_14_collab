@@ -24,3 +24,4 @@ Group activity to familiarize with git together and have fun
 - <alias of developer 3>
   -testline
 - <alias of developer 4> some changes
+- norman test
