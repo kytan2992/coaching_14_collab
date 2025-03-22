@@ -1,6 +1,6 @@
 # Overview
 
-Group activity to familiarize with git
+Group activity to familiarize with git together and have fun
 
 # Commands
 
