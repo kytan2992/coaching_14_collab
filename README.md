@@ -24,4 +24,8 @@ Group activity to familiarize with git together and have fun
 - <alias of developer 3>
   -testline
 - <alias of developer 4> some changes
+<<<<<<< HEAD
 - norman test
+=======
+  ky testing
+>>>>>>> ecdb38c (ky update 5)
