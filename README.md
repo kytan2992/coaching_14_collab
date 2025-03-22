@@ -19,3 +19,5 @@ Group activity to familiarize with git together and have fun
 # Code Contributors
 
 - <alias of developer>
+- <alias of developer 2>
+- 
