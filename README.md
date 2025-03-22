@@ -28,3 +28,4 @@ Group activity to familiarize with git together and have fun
   ky testing
   norman test
   ky testing 5
+  test
