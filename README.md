@@ -9,7 +9,7 @@ Group activity to familiarize with git together and have fun
 3. `git diff` - new stuff here 2
 4. `git add <filename>`
 5. `git reset <filename>`
-6. `git commit -m "<norman-message>"`
+6. `git commit -m "<norman-message-2>"`
 7. `git log`
 8. `git branch <branch name>`
 9. `git checkout <branch name>`
