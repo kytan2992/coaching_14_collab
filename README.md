@@ -20,4 +20,4 @@ Group activity to familiarize with git together and have fun
 
 - <alias of developer>
 - <alias of developer 2>
-- 
+- -keyang
